@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yoy:home|Door43 (yoy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yoy|d43-yoy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yoy/archive/master.zip|d43-yoy.zip]]
+
+**Recent Changes**
+{{changes>ns = yoy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yoy|Ethnologue data]]
+
